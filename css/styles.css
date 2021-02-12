@@ -286,6 +286,18 @@ p {font-size: 18px;
     display: none !important;
 }
 
+
+.imgRoundedCRUD{
+    width: 300px !important;
+    height: 300px !important;
+    border-radius: 150px !important;
+}
+.imgRounded{
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 150px !important;
+}
+
 #signin-modal{
     color: #7c7c7c;
     padding: 5px;
